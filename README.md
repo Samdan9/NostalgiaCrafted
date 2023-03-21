@@ -1,4 +1,4 @@
-# NostalgiaCrafted
+# NostalgiaCraft Update
 Got DMCA'ed ¯\_(ツ)_/¯ is that going to stop me??? Yes... yes it will.
 
 Sooo yeah... its no big secret that versions of Eaglercraft has been getting taken down
