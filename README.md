@@ -15,7 +15,7 @@ Thanks for the support though! It really did make this whole project possible!
 
 # UPDATE
 
-This is important so listen up kiddos! Archive.org has just been unblocked in some districts but downloads for files still remaain unblocked.
+This is important so listen up kiddos! Archive.org has just been unblocked in some districts but downloads for files still remain blocked.
 
 This is good AND bad news:
 
