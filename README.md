@@ -8,8 +8,8 @@ Copyright and DMCA: Resources are Copyright of Mojang AB. This repo does not hos
 
 I believe that I might have a second chance to rehost Nostalgiacraft after reading a bit more on how the DMCA take down even happened and how I can avoid it?
 
-## The NostalgiaCraft Project!
-# By Samdan9 (Minecraft Chrome Dev)
+# The NostalgiaCraft Project!
+ By Samdan9 (Minecraft Chrome Dev)
 
 ## What is this?
 
