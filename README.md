@@ -1,3 +1,57 @@
+# NostalgiaCraft (once more)
+Copyright and DMCA: Resources are Copyright of Mojang AB. This repo does not host any content that is infringing upon Mojang's Copyright. This repo does not host any files from the NostalgiaCraft (Eaglecraft) project, or any portion of the decompiled Minecraft 1.5.2 source code or resources.
+
+# THIS REPOSITORY DOES NOT CONTAIN INTELLECTUAL PROPERTY FROM MOJANG
+# FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
+
+# Okay so lets try this again-
+
+I believe that I might have a second chance to rehost Nostalgiacraft after reading a bit more on how the DMCA take down even happened and how I can avoid it?
+
+## The NostalgiaCraft Project!
+# By Samdan9 (Minecraft Chrome Dev)
+
+## What is this?
+
+NostalgiaCraft was a Project that I started in August of 2022, Updated until September 22, 2022, Discontinued November of 2022 and DMCA'ed March 13, 2023 as a result of the mass DMCA take down (I had source code since I forked the project)
+
+# 90% of the original assets were changed.
+
+All textures were changed, lighting was changed, sounds were changed, and even mobs were changed.
+
+(there was a newer version of this however I didn't back up the project locally (haha stupid me) and has been lost to time.)
+
+## What is the purpose?
+
+This is a modified Eaglercraft client to give the look and feel of old beta Minecraft (but its secretly Minecraft 1.5.2)
+
+## How do I play?
+
+You can download the Offline download or use the Online version ||here||
+
+## Thats it I guess
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Archived News
+
 # NostalgiaCraft Update
 Got DMCA'ed ¯\_(ツ)_/¯ is that going to stop me??? Yes... yes it will.
 
