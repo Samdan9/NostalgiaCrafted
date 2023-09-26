@@ -27,7 +27,7 @@ This is a modified Eaglercraft client to give the look and feel of old beta Mine
 
 ## How do I play?
 
-You can download the Offline download or use the Online version ||here||
+You can download the Offline download or use the Online version <a href="https://minecraftchromedev.github.io/NostalgiaCrafted/">Here</a>
 
 ## Thats it I guess
 
