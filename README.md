@@ -1,19 +1,23 @@
 # NostalgiaCraft (once more)
-Copyright and DMCA: Resources are Copyright of Mojang AB. This repo does not host any content that is infringing upon Mojang's Copyright. This repo does not host any files from the NostalgiaCraft (Eaglecraft) project, or any portion of the decompiled Minecraft 1.5.2 source code or resources.
+Copyright and DMCA: Resources are Copyright of Mojang AB. This repository does not host any content that is infringing upon Mojang's Copyright. This repository does not host any files from the NostalgiaCraft (Eaglecraft) project, or any portion of the decompiled Minecraft 1.5.2 source code or resources.
 
 # THIS REPOSITORY DOES NOT CONTAIN INTELLECTUAL PROPERTY FROM MOJANG
 # FILING A FALSE DMCA IS ILLEGAL AND IMMORAL
 
-# Okay so lets try this again-
+# Okay so let's try this again-
 
 I believe that I might have a second chance to rehost Nostalgiacraft after reading a bit more on how the DMCA take down even happened and how I can avoid it?
 
 # The NostalgiaCraft Project!
- By Samdan9 (Minecraft Chrome Dev)
+ By Samdan9 (MinecraftChromeDev)
 
 ## What is this?
 
-NostalgiaCraft was a Project that I started in August of 2022, Updated until September 22, 2022, Discontinued November of 2022 and DMCA'ed March 13, 2023 as a result of the mass DMCA take down (I had source code since I forked the project)
+NostalgiaCraft was a Project that I started in August of 2022, Updated until September 22, 2022, Discontinued November of 2022 and DMCA'ed March 13, 2023 as a result of the mass DMCA take down (I had source code hosted since I forked the project)
+
+## Oh yeah, this happened too-
+
+Yeah- so I haven't touched this readme in quite some time, but I thought that this would be important to share. So basically, I guess Archive.org must have had some sort of purge of everything related to Eaglercraft. So, again, my crap was taken down. I really don't feel like uploading it again, so whatever. If you find something on Archive.org claiming to be MY work. Don't trust it.
 
 # 90% of the original assets were changed.
 
@@ -23,7 +27,7 @@ All textures were changed, lighting was changed, sounds were changed, and even m
 
 ## What is the purpose?
 
-This is a modified Eaglercraft client to give the look and feel of old beta Minecraft (but its secretly Minecraft 1.5.2)
+This is a modified Eaglercraft client to give the look and feel of old beta Minecraft (but It's secretly Minecraft 1.5.2)
 
 ## How do I play?
 
@@ -77,7 +81,7 @@ This is good AND bad news:
 
 This is mainly good news because there is a way to WGET files from the archive.org server!
 and you are probably saying
-WELL SAM... HOW IN THE HECKZIES WILL I EVER WGET ON A WEB BROWSER
+WELL MCD... HOW IN THE HECKZIES WILL I EVER WGET ON A WEB BROWSER
 introducing drumroll please...
 
 # The Power of the Internet!! *Gitpod*
@@ -93,11 +97,11 @@ Y a y
 
 Q&A
 
-Q: Sam... what if Archive.org is still blocked?
+Q: What if Archive.org is still blocked?
 
 A: You can try downloading it on your phone and put it in your drive so you can drag and drop the file!
 
-Q: Is the anywhere else I can find this file?
+Q: Is there anywhere else I can find this file?
 
 A: No. If you find one somewhere other than my Archive do NOT touch it.
 
